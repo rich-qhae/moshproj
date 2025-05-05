@@ -1,3 +1,3 @@
 list = ['Eggs','Fish','Tuna','Sardine','chicken','pork','turkey']
-list.append('bacon')
+list.pop(0)
 print(list)
