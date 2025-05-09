@@ -1,4 +1,4 @@
-# #Conditions
+# #Conditions is day 9
 user_age = input("Enter your age: ")
 if int(user_age) >= 18:
     print("You can drive")
